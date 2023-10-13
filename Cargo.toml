@@ -1,5 +1,5 @@
 [package]
-name = "unwind-sys"
+name = "libunwind"
 description = "Rust bindings to the libunwind C library"
 version = "1.3.2"
 edition = "2021"
